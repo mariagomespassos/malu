@@ -1,11 +1,10 @@
 alert('algo');
-let quanto = parseInt(prompt('insira um número igual'));
+let quanto1 = parseInt(prompt('insira um número igual'));
 document.write (quanto1);
-let quanto = parseInt(prompt('insira um número igual'));
+let quanto2 = parseInt(prompt('insira um número igual'));
 document.write (quanto2);
-let quanto = parseInt(prompt('insira um número igual'));
+let quanto3 = parseInt(prompt('insira um número igual'));
 document.write (quanto3);
-
 function soma (non1, non2){
     return non1+non2;
 }
